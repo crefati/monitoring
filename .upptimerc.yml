@@ -28,7 +28,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Crefati Status
   introTitle: "Crefati Status Page : See our services running"
-  introMessage: All our websites and services are monitored 24/7 to make sure everything runs smoothly. If you see a problem (downtime/failure), report to: biz@crefati.com
+  introMessage: All our websites and services are monitored 24/7 to make sure everything runs smoothly. If you see a problem (downtime/failure), contact us
   navbar:
     - title: Status
       href: /
