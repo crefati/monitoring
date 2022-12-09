@@ -18,7 +18,15 @@ sites:
   - name: Jaomaffl Website
     url: https://jaomaffl.co.tz/
   - name: MyTrip Connector Tourism Website
-    url: http://mytripconnector.com/
+    url: https://mytripconnector.com/
+  - name: Osmanli Website
+    url: https://osmanli.co.tz 
+  - name: Mechanic Garage Website
+    url: https://mechanicgarage.co.tz/
+  - name: WildFive Tours Website
+    url: https://wildfivetours.co.tz/
+  - name: Aqsalaan Logistics Website
+    url: https://aqsalaanlogistics.co.tz/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
