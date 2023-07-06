@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 2925,
     "dailyMinutesDown": {
-      "2023-07-06": 1050,
+      "2023-07-06": 1061,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
       "2023-07-03": 1440,
@@ -137,7 +137,7 @@
     "timeMonth": 0,
     "timeYear": 180,
     "dailyMinutesDown": {
-      "2023-07-06": 1050,
+      "2023-07-06": 1061,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
       "2023-07-03": 1440,
@@ -256,7 +256,7 @@
     "timeMonth": 0,
     "timeYear": 735,
     "dailyMinutesDown": {
-      "2023-07-06": 1050,
+      "2023-07-06": 1061,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
       "2023-07-03": 1440,
@@ -566,9 +566,9 @@
     "url": "https://mechanicgarage.co.tz/",
     "icon": "https://icons.duckduckgo.com/ip3/mechanicgarage.co.tz.ico",
     "slug": "mechanic-garage-website",
-    "status": "up",
+    "status": "down",
     "uptime": "95.60%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.15%",
     "uptimeYear": "95.60%",
@@ -578,6 +578,7 @@
     "timeMonth": 1920,
     "timeYear": 2297,
     "dailyMinutesDown": {
+      "2023-07-06": 0,
       "2023-06-10": 131,
       "2023-06-09": 241,
       "2023-04-17": 477,
@@ -613,7 +614,7 @@
     "timeMonth": 0,
     "timeYear": 759,
     "dailyMinutesDown": {
-      "2023-07-06": 1051,
+      "2023-07-06": 1061,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
       "2023-07-03": 1440,
