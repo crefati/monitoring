@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.crefati.com.ico",
     "slug": "crefati-main-website",
     "status": "down",
-    "uptime": "34.14%",
+    "uptime": "34.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "24.58%",
+    "uptimeYear": "24.47%",
     "time": 2925,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2792,
+    "timeYear": 2794,
     "dailyMinutesDown": {
-      "2023-12-31": 985,
+      "2024-01-01": 79,
+      "2023-12-31": 1440,
       "2023-12-30": 1440,
       "2023-12-29": 1440,
       "2023-12-28": 1440,
@@ -292,8 +293,7 @@
       "2023-04-02": 1440,
       "2023-04-01": 1440,
       "2023-03-31": 843,
-      "2023-02-23": 16,
-      "2023-01-01": 25
+      "2023-02-23": 16
     }
   },
   {
@@ -302,18 +302,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/my.crefati.com.ico",
     "slug": "crefati-hosting",
     "status": "down",
-    "uptime": "34.16%",
+    "uptime": "34.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "24.58%",
+    "uptimeYear": "24.48%",
     "time": 180,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 178,
     "dailyMinutesDown": {
-      "2023-12-31": 985,
+      "2024-01-01": 79,
+      "2023-12-31": 1440,
       "2023-12-30": 1440,
       "2023-12-29": 1440,
       "2023-12-28": 1440,
@@ -598,18 +599,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/my.crefati.com.ico",
     "slug": "crefati-email-dashboard",
     "status": "down",
-    "uptime": "34.16%",
+    "uptime": "34.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "24.58%",
+    "uptimeYear": "24.48%",
     "time": 735,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 747,
+    "timeYear": 752,
     "dailyMinutesDown": {
-      "2023-12-31": 985,
+      "2024-01-01": 79,
+      "2023-12-31": 1440,
       "2023-12-30": 1440,
       "2023-12-29": 1440,
       "2023-12-28": 1440,
@@ -893,18 +895,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/zrmt.or.tz.ico",
     "slug": "zrmt-website",
     "status": "down",
-    "uptime": "85.24%",
+    "uptime": "85.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "83.34%",
+    "uptimeYear": "83.24%",
     "time": 2367,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2231,
     "dailyMinutesDown": {
-      "2023-12-31": 985,
+      "2024-01-01": 79,
+      "2023-12-31": 1440,
       "2023-12-30": 1440,
       "2023-12-29": 1440,
       "2023-12-28": 1440,
@@ -973,8 +976,7 @@
       "2023-04-10": 625,
       "2023-03-14": 1030,
       "2023-03-13": 631,
-      "2023-01-10": 329,
-      "2023-01-01": 25
+      "2023-01-10": 329
     }
   },
   {
@@ -989,9 +991,9 @@
     "uptimeMonth": "99.44%",
     "uptimeYear": "97.59%",
     "time": 550,
-    "timeDay": 473,
-    "timeWeek": 2093,
-    "timeMonth": 1296,
+    "timeDay": 549,
+    "timeWeek": 2083,
+    "timeMonth": 1291,
     "timeYear": 571,
     "dailyMinutesDown": {
       "2023-12-27": 82,
@@ -1011,8 +1013,7 @@
       "2023-04-10": 625,
       "2023-03-14": 1030,
       "2023-03-13": 631,
-      "2023-01-10": 329,
-      "2023-01-01": 25
+      "2023-01-10": 329
     }
   },
   {
@@ -1027,10 +1028,10 @@
     "uptimeMonth": "99.58%",
     "uptimeYear": "95.87%",
     "time": 669,
-    "timeDay": 575,
-    "timeWeek": 2670,
-    "timeMonth": 1386,
-    "timeYear": 700,
+    "timeDay": 609,
+    "timeWeek": 2660,
+    "timeMonth": 1381,
+    "timeYear": 701,
     "dailyMinutesDown": {
       "2023-12-27": 79,
       "2023-12-26": 104,
@@ -1068,11 +1069,11 @@
     "uptimeWeek": "97.93%",
     "uptimeMonth": "99.52%",
     "uptimeYear": "97.55%",
-    "time": 1943,
-    "timeDay": 919,
-    "timeWeek": 7118,
-    "timeMonth": 3937,
-    "timeYear": 1907,
+    "time": 1941,
+    "timeDay": 928,
+    "timeWeek": 7107,
+    "timeMonth": 3932,
+    "timeYear": 1905,
     "dailyMinutesDown": {
       "2023-12-27": 85,
       "2023-12-26": 124,
@@ -1092,8 +1093,7 @@
       "2023-04-10": 624,
       "2023-03-14": 1030,
       "2023-03-13": 631,
-      "2023-01-10": 329,
-      "2023-01-01": 25
+      "2023-01-10": 329
     }
   },
   {
@@ -1105,13 +1105,13 @@
     "uptime": "97.21%",
     "uptimeDay": "98.39%",
     "uptimeWeek": "99.77%",
-    "uptimeMonth": "74.65%",
+    "uptimeMonth": "75.87%",
     "uptimeYear": "96.81%",
     "time": 467,
-    "timeDay": 710,
-    "timeWeek": 936,
-    "timeMonth": 980,
-    "timeYear": 493,
+    "timeDay": 757,
+    "timeWeek": 897,
+    "timeMonth": 975,
+    "timeYear": 494,
     "dailyMinutesDown": {
       "2023-12-31": 23,
       "2023-12-08": 547,
@@ -1145,18 +1145,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/osmanli.co.tz.ico",
     "slug": "osmanli-website",
     "status": "down",
-    "uptime": "83.30%",
+    "uptime": "83.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "82.36%",
+    "uptimeYear": "82.25%",
     "time": 1334,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1307,
+    "timeYear": 1308,
     "dailyMinutesDown": {
-      "2023-12-31": 985,
+      "2024-01-01": 79,
+      "2023-12-31": 1440,
       "2023-12-30": 1440,
       "2023-12-29": 1440,
       "2023-12-28": 1440,
@@ -1243,11 +1244,11 @@
     "uptimeWeek": "98.05%",
     "uptimeMonth": "99.55%",
     "uptimeYear": "97.62%",
-    "time": 2064,
-    "timeDay": 1083,
-    "timeWeek": 5993,
-    "timeMonth": 3829,
-    "timeYear": 2023,
+    "time": 2062,
+    "timeDay": 982,
+    "timeWeek": 5980,
+    "timeMonth": 3828,
+    "timeYear": 2021,
     "dailyMinutesDown": {
       "2023-12-27": 80,
       "2023-12-26": 118,
@@ -1266,8 +1267,7 @@
       "2023-04-10": 624,
       "2023-03-14": 1030,
       "2023-03-13": 631,
-      "2023-01-10": 329,
-      "2023-01-01": 25
+      "2023-01-10": 329
     }
   },
   {
@@ -1276,7 +1276,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/wildfivetours.co.tz.ico",
     "slug": "wild-five-tours-website",
     "status": "down",
-    "uptime": "21.32%",
+    "uptime": "21.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1285,9 +1285,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 875,
+    "timeYear": 882,
     "dailyMinutesDown": {
-      "2023-12-31": 985,
+      "2024-01-01": 79,
+      "2023-12-31": 1440,
       "2023-12-30": 1440,
       "2023-12-29": 1440,
       "2023-12-28": 1440,
@@ -1569,8 +1570,7 @@
       "2023-01-05": 1440,
       "2023-01-04": 1440,
       "2023-01-03": 1440,
-      "2023-01-02": 1440,
-      "2023-01-01": 1440
+      "2023-01-02": 1440
     }
   },
   {
@@ -1579,7 +1579,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/aqsalaanlogistics.co.tz.ico",
     "slug": "aqsalaan-logistics-website",
     "status": "down",
-    "uptime": "50.22%",
+    "uptime": "50.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1588,9 +1588,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1516,
+    "timeYear": 1521,
     "dailyMinutesDown": {
-      "2023-12-31": 985,
+      "2024-01-01": 79,
+      "2023-12-31": 1440,
       "2023-12-30": 1440,
       "2023-12-29": 1440,
       "2023-12-28": 1440,
@@ -1767,8 +1768,7 @@
       "2023-01-05": 1440,
       "2023-01-04": 1440,
       "2023-01-03": 1440,
-      "2023-01-02": 1440,
-      "2023-01-01": 1440
+      "2023-01-02": 1440
     }
   }
 ]
