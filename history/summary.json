@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.crefati.com.ico",
     "slug": "crefati-main-website",
     "status": "down",
-    "uptime": "27.27%",
+    "uptime": "27.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 2746,
+    "time": 2745,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-15": 209,
+      "2024-04-16": 70,
+      "2024-04-15": 1440,
       "2024-04-14": 1440,
       "2024-04-13": 1440,
       "2024-04-12": 1440,
@@ -379,8 +380,7 @@
       "2023-04-21": 1440,
       "2023-04-20": 1440,
       "2023-04-19": 1440,
-      "2023-04-18": 1440,
-      "2023-04-17": 1440
+      "2023-04-18": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/my.crefati.com.ico",
     "slug": "crefati-hosting",
     "status": "down",
-    "uptime": "27.28%",
+    "uptime": "27.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-15": 209,
+      "2024-04-16": 70,
+      "2024-04-15": 1440,
       "2024-04-14": 1440,
       "2024-04-13": 1440,
       "2024-04-12": 1440,
@@ -763,8 +764,7 @@
       "2023-04-21": 1440,
       "2023-04-20": 1440,
       "2023-04-19": 1440,
-      "2023-04-18": 1440,
-      "2023-04-17": 1440
+      "2023-04-18": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/my.crefati.com.ico",
     "slug": "crefati-email-dashboard",
     "status": "down",
-    "uptime": "27.28%",
+    "uptime": "27.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 677,
+    "time": 679,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-15": 209,
+      "2024-04-16": 70,
+      "2024-04-15": 1440,
       "2024-04-14": 1440,
       "2024-04-13": 1440,
       "2024-04-12": 1440,
@@ -1147,8 +1148,7 @@
       "2023-04-21": 1440,
       "2023-04-20": 1440,
       "2023-04-19": 1440,
-      "2023-04-18": 1440,
-      "2023-04-17": 1440
+      "2023-04-18": 1440
     }
   },
   {
@@ -1157,7 +1157,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/zrmt.or.tz.ico",
     "slug": "zrmt-website",
     "status": "down",
-    "uptime": "68.07%",
+    "uptime": "67.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1166,9 +1166,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2013,
+    "timeYear": 2021,
     "dailyMinutesDown": {
-      "2024-04-15": 209,
+      "2024-04-16": 70,
+      "2024-04-15": 1440,
       "2024-04-14": 1440,
       "2024-04-13": 1440,
       "2024-04-12": 1440,
@@ -1332,8 +1333,7 @@
       "2023-07-07": 324,
       "2023-07-06": 36,
       "2023-06-10": 131,
-      "2023-06-09": 241,
-      "2023-04-17": 476
+      "2023-06-09": 241
     }
   },
   {
@@ -1342,15 +1342,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/royalzanzibar.co.tz.ico",
     "slug": "rozac-website",
     "status": "up",
-    "uptime": "93.73%",
+    "uptime": "93.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "92.85%",
+    "uptimeYear": "93.10%",
     "time": 732,
-    "timeDay": 489,
-    "timeWeek": 561,
-    "timeMonth": 1281,
+    "timeDay": 464,
+    "timeWeek": 547,
+    "timeMonth": 1273,
     "timeYear": 889,
     "dailyMinutesDown": {
       "2024-04-03": 16,
@@ -1386,8 +1386,7 @@
       "2023-10-02": 20,
       "2023-09-26": 170,
       "2023-06-10": 131,
-      "2023-06-09": 241,
-      "2023-04-17": 476
+      "2023-06-09": 241
     }
   },
   {
@@ -1396,7 +1395,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tours.royalzanzibar.co.tz.ico",
     "slug": "rozac-tourism-website",
     "status": "down",
-    "uptime": "76.98%",
+    "uptime": "76.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1405,9 +1404,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 740,
+    "timeYear": 742,
     "dailyMinutesDown": {
-      "2024-04-15": 209,
+      "2024-04-16": 70,
+      "2024-04-15": 1440,
       "2024-04-14": 1440,
       "2024-04-13": 1440,
       "2024-04-12": 1440,
@@ -1524,8 +1524,7 @@
       "2023-09-26": 1043,
       "2023-09-07": 22,
       "2023-06-10": 131,
-      "2023-06-09": 241,
-      "2023-04-17": 476
+      "2023-06-09": 241
     }
   },
   {
@@ -1538,12 +1537,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.09%",
-    "time": 1777,
-    "timeDay": 1240,
-    "timeWeek": 1060,
-    "timeMonth": 1075,
-    "timeYear": 1728,
+    "uptimeYear": "99.34%",
+    "time": 1775,
+    "timeDay": 1001,
+    "timeWeek": 1068,
+    "timeMonth": 1071,
+    "timeYear": 1730,
     "dailyMinutesDown": {
       "2024-01-27": 16,
       "2024-01-21": 21,
@@ -1556,8 +1555,7 @@
       "2023-07-07": 291,
       "2023-07-06": 82,
       "2023-06-10": 131,
-      "2023-06-09": 241,
-      "2023-04-17": 477
+      "2023-06-09": 241
     }
   },
   {
@@ -1570,12 +1568,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.59%",
     "uptimeMonth": "99.68%",
-    "uptimeYear": "97.49%",
-    "time": 631,
-    "timeDay": 637,
-    "timeWeek": 898,
-    "timeMonth": 1391,
-    "timeYear": 771,
+    "uptimeYear": "97.53%",
+    "time": 673,
+    "timeDay": 653,
+    "timeWeek": 699,
+    "timeMonth": 1302,
+    "timeYear": 826,
     "dailyMinutesDown": {
       "2024-04-12": 118,
       "2024-04-09": 23,
@@ -1593,8 +1591,7 @@
       "2023-12-01": 1440,
       "2023-11-30": 1440,
       "2023-11-29": 173,
-      "2023-11-19": 36,
-      "2023-04-17": 162
+      "2023-11-19": 36
     }
   },
   {
@@ -1603,18 +1600,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/osmanli.co.tz.ico",
     "slug": "osmanli-website",
     "status": "down",
-    "uptime": "65.47%",
+    "uptime": "65.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "53.52%",
+    "uptimeYear": "53.27%",
     "time": 1319,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1177,
+    "timeYear": 1179,
     "dailyMinutesDown": {
-      "2024-04-15": 209,
+      "2024-04-16": 70,
+      "2024-04-15": 1440,
       "2024-04-14": 1440,
       "2024-04-13": 1440,
       "2024-04-12": 1440,
@@ -1799,12 +1797,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.16%",
-    "time": 2003,
-    "timeDay": 1008,
-    "timeWeek": 1619,
-    "timeMonth": 1376,
-    "timeYear": 1933,
+    "uptimeYear": "99.41%",
+    "time": 2002,
+    "timeDay": 1320,
+    "timeWeek": 1627,
+    "timeMonth": 1369,
+    "timeYear": 1936,
     "dailyMinutesDown": {
       "2024-04-03": 19,
       "2024-01-27": 16,
@@ -1818,8 +1816,7 @@
       "2023-07-07": 161,
       "2023-07-06": 63,
       "2023-06-10": 131,
-      "2023-06-09": 241,
-      "2023-04-17": 477
+      "2023-06-09": 241
     }
   },
   {
@@ -1828,18 +1825,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/wildfivetours.co.tz.ico",
     "slug": "wild-five-tours-website",
     "status": "down",
-    "uptime": "16.75%",
+    "uptime": "16.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 776,
+    "time": 777,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-15": 209,
+      "2024-04-16": 70,
+      "2024-04-15": 1440,
       "2024-04-14": 1440,
       "2024-04-13": 1440,
       "2024-04-12": 1440,
@@ -2202,8 +2200,7 @@
       "2023-04-21": 1440,
       "2023-04-20": 1440,
       "2023-04-19": 1440,
-      "2023-04-18": 1440,
-      "2023-04-17": 1440
+      "2023-04-18": 1440
     }
   },
   {
@@ -2212,18 +2209,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/aqsalaanlogistics.co.tz.ico",
     "slug": "aqsalaan-logistics-website",
     "status": "down",
-    "uptime": "39.47%",
+    "uptime": "39.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "28.13%",
-    "time": 1527,
+    "time": 1526,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1589,
+    "timeYear": 1600,
     "dailyMinutesDown": {
-      "2024-04-15": 209,
+      "2024-04-16": 70,
+      "2024-04-15": 1440,
       "2024-04-14": 1440,
       "2024-04-13": 1440,
       "2024-04-12": 1440,
@@ -2487,8 +2485,7 @@
       "2023-07-07": 315,
       "2023-07-06": 57,
       "2023-06-10": 131,
-      "2023-06-09": 241,
-      "2023-04-17": 477
+      "2023-06-09": 241
     }
   }
 ]
