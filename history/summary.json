@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-18": 818,
+      "2025-05-18": 879,
       "2025-05-17": 1440,
       "2025-05-16": 1440,
       "2025-05-15": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-18": 818,
+      "2025-05-18": 879,
       "2025-05-17": 1440,
       "2025-05-16": 1440,
       "2025-05-15": 1440,
@@ -784,7 +784,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-18": 818,
+      "2025-05-18": 879,
       "2025-05-17": 1440,
       "2025-05-16": 1440,
       "2025-05-15": 1440,
@@ -1168,7 +1168,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-18": 818,
+      "2025-05-18": 879,
       "2025-05-17": 1440,
       "2025-05-16": 1440,
       "2025-05-15": 1440,
@@ -1587,7 +1587,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-18": 818,
+      "2025-05-18": 880,
       "2025-05-17": 1440,
       "2025-05-16": 1440,
       "2025-05-15": 1440,
@@ -1998,13 +1998,13 @@
     "url": "https://mytripconnector.com/",
     "icon": "https://icons.duckduckgo.com/ip3/mytripconnector.com.ico",
     "slug": "my-trip-connector-tourism-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "96.82%",
+    "uptimeDay": "96.80%",
     "uptimeWeek": "96.78%",
     "uptimeMonth": "94.74%",
-    "uptimeYear": "99.14%",
-    "time": 1956,
+    "uptimeYear": "99.15%",
+    "time": 1958,
     "timeDay": 2332,
     "timeWeek": 2520,
     "timeMonth": 2598,
@@ -2036,8 +2036,7 @@
       "2025-04-08": 76,
       "2025-04-07": 41,
       "2025-04-06": 477,
-      "2025-04-05": 305,
-      "2025-04-04": 7
+      "2025-04-05": 249
     }
   },
   {
@@ -2057,7 +2056,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-18": 818,
+      "2025-05-18": 880,
       "2025-05-17": 1440,
       "2025-05-16": 1440,
       "2025-05-15": 1440,
@@ -2434,14 +2433,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "40.24%",
+    "uptimeYear": "40.23%",
     "time": 1509,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1366,
     "dailyMinutesDown": {
-      "2025-05-18": 818,
+      "2025-05-18": 880,
       "2025-05-17": 1440,
       "2025-05-16": 1440,
       "2025-05-15": 1440,
@@ -2682,7 +2681,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-18": 818,
+      "2025-05-18": 880,
       "2025-05-17": 1440,
       "2025-05-16": 1440,
       "2025-05-15": 1440,
@@ -3055,7 +3054,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/aqsalaanlogistics.co.tz.ico",
     "slug": "aqsalaan-logistics-website",
     "status": "down",
-    "uptime": "21.83%",
+    "uptime": "21.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -3066,7 +3065,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-18": 818,
+      "2025-05-18": 880,
       "2025-05-17": 1440,
       "2025-05-16": 1440,
       "2025-05-15": 1440,
