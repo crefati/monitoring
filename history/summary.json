@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-02": 1400,
+      "2025-07-02": 1435,
       "2025-07-01": 1440,
       "2025-06-30": 1440,
       "2025-06-29": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-02": 1400,
+      "2025-07-02": 1435,
       "2025-07-01": 1440,
       "2025-06-30": 1440,
       "2025-06-29": 1440,
@@ -773,7 +773,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/my.crefati.com.ico",
     "slug": "crefati-email-dashboard",
     "status": "down",
-    "uptime": "14.77%",
+    "uptime": "14.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -784,7 +784,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-02": 1400,
+      "2025-07-02": 1435,
       "2025-07-01": 1440,
       "2025-06-30": 1440,
       "2025-06-29": 1440,
@@ -1168,7 +1168,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-02": 1400,
+      "2025-07-02": 1435,
       "2025-07-01": 1440,
       "2025-06-30": 1440,
       "2025-06-29": 1440,
@@ -1591,7 +1591,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-02": 1400,
+      "2025-07-02": 1435,
       "2025-07-01": 1440,
       "2025-06-30": 1440,
       "2025-06-29": 1440,
@@ -2007,13 +2007,13 @@
     "url": "https://mytripconnector.com/",
     "icon": "https://icons.duckduckgo.com/ip3/mytripconnector.com.ico",
     "slug": "my-trip-connector-tourism-website",
-    "status": "up",
-    "uptime": "99.33%",
-    "uptimeDay": "93.55%",
+    "status": "down",
+    "uptime": "99.34%",
+    "uptimeDay": "93.53%",
     "uptimeWeek": "92.56%",
     "uptimeMonth": "92.18%",
     "uptimeYear": "98.24%",
-    "time": 2059,
+    "time": 2060,
     "timeDay": 3558,
     "timeWeek": 3064,
     "timeMonth": 2935,
@@ -2058,8 +2058,7 @@
       "2025-04-28": 388,
       "2025-04-27": 34,
       "2025-04-26": 46,
-      "2025-04-25": 200,
-      "2025-04-22": 32
+      "2025-04-25": 200
     }
   },
   {
@@ -2079,7 +2078,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-02": 1400,
+      "2025-07-02": 1435,
       "2025-07-01": 1440,
       "2025-06-30": 1440,
       "2025-06-29": 1440,
@@ -2456,14 +2455,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "27.80%",
+    "uptimeYear": "27.79%",
     "time": 1477,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1243,
     "dailyMinutesDown": {
-      "2025-07-02": 1400,
+      "2025-07-02": 1435,
       "2025-07-01": 1440,
       "2025-06-30": 1440,
       "2025-06-29": 1440,
@@ -2749,7 +2748,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-02": 1400,
+      "2025-07-02": 1435,
       "2025-07-01": 1440,
       "2025-06-30": 1440,
       "2025-06-29": 1440,
@@ -3133,7 +3132,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-02": 1400,
+      "2025-07-02": 1435,
       "2025-07-01": 1440,
       "2025-06-30": 1440,
       "2025-06-29": 1440,
