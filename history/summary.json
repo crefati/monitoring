@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-05": 293,
+      "2025-07-05": 350,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-05": 293,
+      "2025-07-05": 350,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
@@ -784,7 +784,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-05": 293,
+      "2025-07-05": 350,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
@@ -1168,7 +1168,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-05": 293,
+      "2025-07-05": 350,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
@@ -1580,7 +1580,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tours.royalzanzibar.co.tz.ico",
     "slug": "rozac-tourism-website",
     "status": "down",
-    "uptime": "41.57%",
+    "uptime": "41.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1591,7 +1591,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-05": 293,
+      "2025-07-05": 350,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
@@ -2007,14 +2007,14 @@
     "url": "https://mytripconnector.com/",
     "icon": "https://icons.duckduckgo.com/ip3/mytripconnector.com.ico",
     "slug": "my-trip-connector-tourism-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.32%",
-    "uptimeDay": "82.36%",
-    "uptimeWeek": "88.56%",
+    "uptimeDay": "83.59%",
+    "uptimeWeek": "88.60%",
     "uptimeMonth": "90.67%",
-    "uptimeYear": "98.18%",
-    "time": 2115,
-    "timeDay": 3974,
+    "uptimeYear": "98.19%",
+    "time": 2116,
+    "timeDay": 3939,
     "timeWeek": 3221,
     "timeMonth": 3087,
     "timeYear": 2342,
@@ -2058,7 +2058,7 @@
       "2025-05-04": 16,
       "2025-05-01": 86,
       "2025-04-30": 44,
-      "2025-04-28": 303
+      "2025-04-28": 259
     }
   },
   {
@@ -2078,7 +2078,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-05": 293,
+      "2025-07-05": 351,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
@@ -2455,14 +2455,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "27.19%",
+    "uptimeYear": "27.18%",
     "time": 1475,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1246,
     "dailyMinutesDown": {
-      "2025-07-05": 293,
+      "2025-07-05": 351,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
@@ -2751,7 +2751,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-05": 293,
+      "2025-07-05": 351,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
@@ -3135,7 +3135,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-05": 293,
+      "2025-07-05": 351,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
