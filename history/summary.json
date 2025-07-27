@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.crefati.com.ico",
     "slug": "crefati-main-website",
     "status": "down",
-    "uptime": "14.41%",
+    "uptime": "14.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-26": 940,
+      "2025-07-27": 141,
+      "2025-07-26": 1440,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
       "2025-07-23": 1440,
@@ -379,8 +380,7 @@
       "2024-07-31": 1440,
       "2024-07-30": 1440,
       "2024-07-29": 1440,
-      "2024-07-28": 1440,
-      "2024-07-27": 1440
+      "2024-07-28": 1440
     }
   },
   {
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-26": 940,
+      "2025-07-27": 141,
+      "2025-07-26": 1440,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
       "2025-07-23": 1440,
@@ -763,8 +764,7 @@
       "2024-07-31": 1440,
       "2024-07-30": 1440,
       "2024-07-29": 1440,
-      "2024-07-28": 1440,
-      "2024-07-27": 1440
+      "2024-07-28": 1440
     }
   },
   {
@@ -784,7 +784,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-26": 940,
+      "2025-07-27": 141,
+      "2025-07-26": 1440,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
       "2025-07-23": 1440,
@@ -1147,8 +1148,7 @@
       "2024-07-31": 1440,
       "2024-07-30": 1440,
       "2024-07-29": 1440,
-      "2024-07-28": 1440,
-      "2024-07-27": 1440
+      "2024-07-28": 1440
     }
   },
   {
@@ -1157,7 +1157,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/zrmt.or.tz.ico",
     "slug": "zrmt-website",
     "status": "down",
-    "uptime": "35.96%",
+    "uptime": "35.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1168,7 +1168,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-26": 940,
+      "2025-07-27": 141,
+      "2025-07-26": 1440,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
       "2025-07-23": 1440,
@@ -1531,8 +1532,7 @@
       "2024-07-31": 1440,
       "2024-07-30": 1440,
       "2024-07-29": 1440,
-      "2024-07-28": 1440,
-      "2024-07-27": 1440
+      "2024-07-28": 1440
     }
   },
   {
@@ -1541,16 +1541,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/royalzanzibar.co.tz.ico",
     "slug": "rozac-website",
     "status": "up",
-    "uptime": "96.41%",
+    "uptime": "96.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.29%",
     "time": 914,
-    "timeDay": 768,
-    "timeWeek": 677,
-    "timeMonth": 677,
-    "timeYear": 875,
+    "timeDay": 759,
+    "timeWeek": 672,
+    "timeMonth": 675,
+    "timeYear": 876,
     "dailyMinutesDown": {
       "2025-07-19": 26,
       "2025-07-08": 22,
@@ -1582,7 +1582,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tours.royalzanzibar.co.tz.ico",
     "slug": "rozac-tourism-website",
     "status": "down",
-    "uptime": "40.67%",
+    "uptime": "40.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1593,7 +1593,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-26": 940,
+      "2025-07-27": 141,
+      "2025-07-26": 1440,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
       "2025-07-23": 1440,
@@ -1956,8 +1957,7 @@
       "2024-07-31": 1440,
       "2024-07-30": 1440,
       "2024-07-29": 1440,
-      "2024-07-28": 1440,
-      "2024-07-27": 1440
+      "2024-07-28": 1440
     }
   },
   {
@@ -1972,9 +1972,9 @@
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.79%",
     "time": 1450,
-    "timeDay": 1382,
-    "timeWeek": 1145,
-    "timeMonth": 1112,
+    "timeDay": 1126,
+    "timeWeek": 1173,
+    "timeMonth": 1092,
     "timeYear": 1521,
     "dailyMinutesDown": {
       "2025-07-19": 26,
@@ -2015,11 +2015,11 @@
     "uptimeWeek": "99.79%",
     "uptimeMonth": "96.05%",
     "uptimeYear": "98.19%",
-    "time": 2189,
-    "timeDay": 3222,
-    "timeWeek": 2678,
-    "timeMonth": 3254,
-    "timeYear": 2428,
+    "time": 2191,
+    "timeDay": 2263,
+    "timeWeek": 2743,
+    "timeMonth": 3236,
+    "timeYear": 2431,
     "dailyMinutesDown": {
       "2025-07-26": 21,
       "2025-07-14": 59,
@@ -2069,7 +2069,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/osmanli.co.tz.ico",
     "slug": "osmanli-website",
     "status": "down",
-    "uptime": "33.60%",
+    "uptime": "33.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -2080,7 +2080,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-26": 940,
+      "2025-07-27": 141,
+      "2025-07-26": 1440,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
       "2025-07-23": 1440,
@@ -2443,8 +2444,7 @@
       "2024-07-31": 1440,
       "2024-07-30": 1440,
       "2024-07-29": 1440,
-      "2024-07-28": 1440,
-      "2024-07-27": 1440
+      "2024-07-28": 1440
     }
   },
   {
@@ -2453,18 +2453,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mechanicgarage.co.tz.ico",
     "slug": "mechanic-garage-website",
     "status": "down",
-    "uptime": "69.06%",
+    "uptime": "69.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "21.31%",
-    "time": 1505,
+    "uptimeYear": "21.19%",
+    "time": 1502,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1227,
+    "timeYear": 1229,
     "dailyMinutesDown": {
-      "2025-07-26": 940,
+      "2025-07-27": 141,
+      "2025-07-26": 1440,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
       "2025-07-23": 1440,
@@ -2763,7 +2764,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/wildfivetours.co.tz.ico",
     "slug": "wild-five-tours-website",
     "status": "down",
-    "uptime": "8.60%",
+    "uptime": "8.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -2774,7 +2775,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-26": 940,
+      "2025-07-27": 141,
+      "2025-07-26": 1440,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
       "2025-07-23": 1440,
@@ -3137,8 +3139,7 @@
       "2024-07-31": 1440,
       "2024-07-30": 1440,
       "2024-07-29": 1440,
-      "2024-07-28": 1440,
-      "2024-07-27": 1440
+      "2024-07-28": 1440
     }
   },
   {
@@ -3147,7 +3148,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/aqsalaanlogistics.co.tz.ico",
     "slug": "aqsalaan-logistics-website",
     "status": "down",
-    "uptime": "20.26%",
+    "uptime": "20.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -3158,7 +3159,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-26": 940,
+      "2025-07-27": 141,
+      "2025-07-26": 1440,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
       "2025-07-23": 1440,
@@ -3521,8 +3523,7 @@
       "2024-07-31": 1440,
       "2024-07-30": 1440,
       "2024-07-29": 1440,
-      "2024-07-28": 1440,
-      "2024-07-27": 1440
+      "2024-07-28": 1440
     }
   }
 ]
