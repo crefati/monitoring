@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-17": 330,
+      "2025-08-17": 415,
       "2025-08-16": 1440,
       "2025-08-15": 1440,
       "2025-08-14": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-17": 330,
+      "2025-08-17": 415,
       "2025-08-16": 1440,
       "2025-08-15": 1440,
       "2025-08-14": 1440,
@@ -773,7 +773,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/my.crefati.com.ico",
     "slug": "crefati-email-dashboard",
     "status": "down",
-    "uptime": "14.11%",
+    "uptime": "14.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -784,7 +784,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-17": 330,
+      "2025-08-17": 415,
       "2025-08-16": 1440,
       "2025-08-15": 1440,
       "2025-08-14": 1440,
@@ -1157,7 +1157,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/zrmt.or.tz.ico",
     "slug": "zrmt-website",
     "status": "down",
-    "uptime": "35.20%",
+    "uptime": "35.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1168,7 +1168,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-17": 330,
+      "2025-08-17": 415,
       "2025-08-16": 1440,
       "2025-08-15": 1440,
       "2025-08-14": 1440,
@@ -1594,7 +1594,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-17": 330,
+      "2025-08-17": 416,
       "2025-08-16": 1440,
       "2025-08-15": 1440,
       "2025-08-14": 1440,
@@ -2012,9 +2012,9 @@
     "url": "https://mytripconnector.com/",
     "icon": "https://icons.duckduckgo.com/ip3/mytripconnector.com.ico",
     "slug": "my-trip-connector-tourism-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.33%",
-    "uptimeDay": "98.11%",
+    "uptimeDay": "98.08%",
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.21%",
     "uptimeYear": "98.15%",
@@ -2064,8 +2064,7 @@
       "2025-05-13": 215,
       "2025-05-08": 588,
       "2025-05-07": 391,
-      "2025-05-06": 135,
-      "2025-05-05": 16
+      "2025-05-06": 135
     }
   },
   {
@@ -2085,7 +2084,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-17": 330,
+      "2025-08-17": 416,
       "2025-08-16": 1440,
       "2025-08-15": 1440,
       "2025-08-14": 1440,
@@ -2458,18 +2457,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mechanicgarage.co.tz.ico",
     "slug": "mechanic-garage-website",
     "status": "down",
-    "uptime": "67.54%",
+    "uptime": "67.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "15.40%",
+    "uptimeYear": "15.38%",
     "time": 1446,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1289,
     "dailyMinutesDown": {
-      "2025-08-17": 330,
+      "2025-08-17": 416,
       "2025-08-16": 1440,
       "2025-08-15": 1440,
       "2025-08-14": 1440,
@@ -2801,7 +2800,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-17": 330,
+      "2025-08-17": 416,
       "2025-08-16": 1440,
       "2025-08-15": 1440,
       "2025-08-14": 1440,
@@ -3185,7 +3184,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-17": 330,
+      "2025-08-17": 416,
       "2025-08-16": 1440,
       "2025-08-15": 1440,
       "2025-08-14": 1440,
