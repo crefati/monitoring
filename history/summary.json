@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.crefati.com.ico",
     "slug": "crefati-main-website",
     "status": "down",
-    "uptime": "14.09%",
+    "uptime": "14.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-18": 126,
+      "2025-08-19": 113,
+      "2025-08-18": 1440,
       "2025-08-17": 1440,
       "2025-08-16": 1440,
       "2025-08-15": 1440,
@@ -379,8 +380,7 @@
       "2024-08-23": 1440,
       "2024-08-22": 1440,
       "2024-08-21": 1440,
-      "2024-08-20": 1440,
-      "2024-08-19": 1440
+      "2024-08-20": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/my.crefati.com.ico",
     "slug": "crefati-hosting",
     "status": "down",
-    "uptime": "14.09%",
+    "uptime": "14.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-18": 126,
+      "2025-08-19": 113,
+      "2025-08-18": 1440,
       "2025-08-17": 1440,
       "2025-08-16": 1440,
       "2025-08-15": 1440,
@@ -763,8 +764,7 @@
       "2024-08-23": 1440,
       "2024-08-22": 1440,
       "2024-08-21": 1440,
-      "2024-08-20": 1440,
-      "2024-08-19": 1440
+      "2024-08-20": 1440
     }
   },
   {
@@ -773,7 +773,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/my.crefati.com.ico",
     "slug": "crefati-email-dashboard",
     "status": "down",
-    "uptime": "14.09%",
+    "uptime": "14.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -784,7 +784,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-18": 126,
+      "2025-08-19": 113,
+      "2025-08-18": 1440,
       "2025-08-17": 1440,
       "2025-08-16": 1440,
       "2025-08-15": 1440,
@@ -1147,8 +1148,7 @@
       "2024-08-23": 1440,
       "2024-08-22": 1440,
       "2024-08-21": 1440,
-      "2024-08-20": 1440,
-      "2024-08-19": 1440
+      "2024-08-20": 1440
     }
   },
   {
@@ -1157,7 +1157,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/zrmt.or.tz.ico",
     "slug": "zrmt-website",
     "status": "down",
-    "uptime": "35.17%",
+    "uptime": "35.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1168,7 +1168,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-18": 126,
+      "2025-08-19": 113,
+      "2025-08-18": 1440,
       "2025-08-17": 1440,
       "2025-08-16": 1440,
       "2025-08-15": 1440,
@@ -1531,8 +1532,7 @@
       "2024-08-23": 1440,
       "2024-08-22": 1440,
       "2024-08-21": 1440,
-      "2024-08-20": 1440,
-      "2024-08-19": 1440
+      "2024-08-20": 1440
     }
   },
   {
@@ -1546,11 +1546,11 @@
     "uptimeWeek": "99.72%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.29%",
-    "time": 922,
-    "timeDay": 509,
+    "time": 923,
+    "timeDay": 549,
     "timeWeek": 641,
-    "timeMonth": 654,
-    "timeYear": 874,
+    "timeMonth": 650,
+    "timeYear": 875,
     "dailyMinutesDown": {
       "2025-08-14": 29,
       "2025-08-01": 17,
@@ -1573,8 +1573,7 @@
       "2024-12-18": 20,
       "2024-12-12": 18,
       "2024-12-05": 24,
-      "2024-08-23": 18,
-      "2024-08-19": 89
+      "2024-08-23": 18
     }
   },
   {
@@ -1583,7 +1582,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tours.royalzanzibar.co.tz.ico",
     "slug": "rozac-tourism-website",
     "status": "down",
-    "uptime": "39.77%",
+    "uptime": "39.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1594,7 +1593,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-18": 126,
+      "2025-08-19": 113,
+      "2025-08-18": 1440,
       "2025-08-17": 1440,
       "2025-08-16": 1440,
       "2025-08-15": 1440,
@@ -1957,8 +1957,7 @@
       "2024-08-23": 1440,
       "2024-08-22": 1440,
       "2024-08-21": 1440,
-      "2024-08-20": 1440,
-      "2024-08-19": 1440
+      "2024-08-20": 1440
     }
   },
   {
@@ -1973,9 +1972,9 @@
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.78%",
     "time": 1448,
-    "timeDay": 928,
-    "timeWeek": 987,
-    "timeMonth": 1019,
+    "timeDay": 1090,
+    "timeWeek": 970,
+    "timeMonth": 1020,
     "timeYear": 1463,
     "dailyMinutesDown": {
       "2025-08-14": 29,
@@ -2003,8 +2002,7 @@
       "2024-12-12": 17,
       "2024-12-05": 23,
       "2024-10-24": 24,
-      "2024-08-23": 18,
-      "2024-08-19": 88
+      "2024-08-23": 18
     }
   },
   {
@@ -2014,14 +2012,14 @@
     "slug": "my-trip-connector-tourism-website",
     "status": "up",
     "uptime": "99.33%",
-    "uptimeDay": "93.70%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.10%",
     "uptimeMonth": "99.06%",
     "uptimeYear": "98.14%",
-    "time": 2261,
-    "timeDay": 2913,
-    "timeWeek": 2565,
-    "timeMonth": 2963,
+    "time": 2262,
+    "timeDay": 1700,
+    "timeWeek": 2444,
+    "timeMonth": 2957,
     "timeYear": 2507,
     "dailyMinutesDown": {
       "2025-08-17": 90,
@@ -2073,7 +2071,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/osmanli.co.tz.ico",
     "slug": "osmanli-website",
     "status": "down",
-    "uptime": "32.83%",
+    "uptime": "32.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -2084,7 +2082,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-18": 126,
+      "2025-08-19": 114,
+      "2025-08-18": 1440,
       "2025-08-17": 1440,
       "2025-08-16": 1440,
       "2025-08-15": 1440,
@@ -2447,8 +2446,7 @@
       "2024-08-23": 1440,
       "2024-08-22": 1440,
       "2024-08-21": 1440,
-      "2024-08-20": 1440,
-      "2024-08-19": 1440
+      "2024-08-20": 1440
     }
   },
   {
@@ -2457,18 +2455,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mechanicgarage.co.tz.ico",
     "slug": "mechanic-garage-website",
     "status": "down",
-    "uptime": "67.48%",
+    "uptime": "67.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "15.16%",
-    "time": 1451,
+    "uptimeYear": "14.89%",
+    "time": 1363,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1276,
+    "timeYear": 1280,
     "dailyMinutesDown": {
-      "2025-08-18": 127,
+      "2025-08-19": 114,
+      "2025-08-18": 1440,
       "2025-08-17": 1440,
       "2025-08-16": 1440,
       "2025-08-15": 1440,
@@ -2780,8 +2779,7 @@
       "2024-10-13": 1440,
       "2024-10-12": 679,
       "2024-09-03": 26,
-      "2024-08-23": 17,
-      "2024-08-19": 86
+      "2024-08-23": 17
     }
   },
   {
@@ -2790,7 +2788,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/wildfivetours.co.tz.ico",
     "slug": "wild-five-tours-website",
     "status": "down",
-    "uptime": "8.40%",
+    "uptime": "8.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -2801,7 +2799,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-18": 127,
+      "2025-08-19": 114,
+      "2025-08-18": 1440,
       "2025-08-17": 1440,
       "2025-08-16": 1440,
       "2025-08-15": 1440,
@@ -3164,8 +3163,7 @@
       "2024-08-23": 1440,
       "2024-08-22": 1440,
       "2024-08-21": 1440,
-      "2024-08-20": 1440,
-      "2024-08-19": 1440
+      "2024-08-20": 1440
     }
   },
   {
@@ -3174,7 +3172,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/aqsalaanlogistics.co.tz.ico",
     "slug": "aqsalaan-logistics-website",
     "status": "down",
-    "uptime": "19.79%",
+    "uptime": "19.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -3185,7 +3183,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-18": 127,
+      "2025-08-19": 114,
+      "2025-08-18": 1440,
       "2025-08-17": 1440,
       "2025-08-16": 1440,
       "2025-08-15": 1440,
@@ -3548,8 +3547,7 @@
       "2024-08-23": 1440,
       "2024-08-22": 1440,
       "2024-08-21": 1440,
-      "2024-08-20": 1440,
-      "2024-08-19": 1440
+      "2024-08-20": 1440
     }
   }
 ]
