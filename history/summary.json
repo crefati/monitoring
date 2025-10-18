@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-18": 970,
+      "2025-10-18": 1038,
       "2025-10-17": 1440,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/my.crefati.com.ico",
     "slug": "crefati-hosting",
     "status": "down",
-    "uptime": "13.29%",
+    "uptime": "13.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-18": 970,
+      "2025-10-18": 1038,
       "2025-10-17": 1440,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
@@ -784,7 +784,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-18": 970,
+      "2025-10-18": 1038,
       "2025-10-17": 1440,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
@@ -1168,7 +1168,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-18": 970,
+      "2025-10-18": 1038,
       "2025-10-17": 1440,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
@@ -1595,7 +1595,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-18": 970,
+      "2025-10-18": 1038,
       "2025-10-17": 1440,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
@@ -1970,7 +1970,7 @@
     "status": "up",
     "uptime": "98.70%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "75.38%",
+    "uptimeWeek": "76.05%",
     "uptimeMonth": "90.33%",
     "uptimeYear": "98.99%",
     "time": 1419,
@@ -2018,14 +2018,14 @@
     "url": "https://mytripconnector.com/",
     "icon": "https://icons.duckduckgo.com/ip3/mytripconnector.com.ico",
     "slug": "my-trip-connector-tourism-website",
-    "status": "up",
-    "uptime": "99.41%",
-    "uptimeDay": "92.56%",
+    "status": "down",
+    "uptime": "99.46%",
+    "uptimeDay": "93.64%",
     "uptimeWeek": "98.32%",
     "uptimeMonth": "99.04%",
-    "uptimeYear": "98.27%",
-    "time": 2385,
-    "timeDay": 2319,
+    "uptimeYear": "98.40%",
+    "time": 2387,
+    "timeDay": 2143,
     "timeWeek": 2376,
     "timeMonth": 2480,
     "timeYear": 2646,
@@ -2071,8 +2071,7 @@
       "2025-05-28": 81,
       "2025-05-27": 1440,
       "2025-05-26": 334,
-      "2025-05-23": 37,
-      "2025-05-21": 715
+      "2025-05-23": 37
     }
   },
   {
@@ -2092,7 +2091,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-18": 970,
+      "2025-10-18": 1038,
       "2025-10-17": 1440,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
@@ -2476,7 +2475,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-18": 970,
+      "2025-10-18": 1038,
       "2025-10-17": 1440,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
@@ -2860,7 +2859,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-18": 970,
+      "2025-10-18": 1038,
       "2025-10-17": 1440,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
@@ -3233,7 +3232,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/aqsalaanlogistics.co.tz.ico",
     "slug": "aqsalaan-logistics-website",
     "status": "down",
-    "uptime": "18.63%",
+    "uptime": "18.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -3244,7 +3243,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-18": 970,
+      "2025-10-18": 1038,
       "2025-10-17": 1440,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
