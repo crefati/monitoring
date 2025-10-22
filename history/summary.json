@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-22": 1119,
+      "2025-10-22": 1136,
       "2025-10-21": 1440,
       "2025-10-20": 1440,
       "2025-10-19": 1440,
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/my.crefati.com.ico",
     "slug": "crefati-hosting",
     "status": "down",
-    "uptime": "13.24%",
+    "uptime": "13.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-22": 1119,
+      "2025-10-22": 1137,
       "2025-10-21": 1440,
       "2025-10-20": 1440,
       "2025-10-19": 1440,
@@ -784,7 +784,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-22": 1119,
+      "2025-10-22": 1137,
       "2025-10-21": 1440,
       "2025-10-20": 1440,
       "2025-10-19": 1440,
@@ -1168,7 +1168,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-22": 1119,
+      "2025-10-22": 1137,
       "2025-10-21": 1440,
       "2025-10-20": 1440,
       "2025-10-19": 1440,
@@ -1585,7 +1585,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tours.royalzanzibar.co.tz.ico",
     "slug": "rozac-tourism-website",
     "status": "down",
-    "uptime": "37.35%",
+    "uptime": "37.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1596,7 +1596,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-22": 1119,
+      "2025-10-22": 1137,
       "2025-10-21": 1440,
       "2025-10-20": 1440,
       "2025-10-19": 1440,
@@ -2020,14 +2020,14 @@
     "url": "https://mytripconnector.com/",
     "icon": "https://icons.duckduckgo.com/ip3/mytripconnector.com.ico",
     "slug": "my-trip-connector-tourism-website",
-    "status": "up",
-    "uptime": "99.73%",
-    "uptimeDay": "58.77%",
+    "status": "down",
+    "uptime": "99.74%",
+    "uptimeDay": "59.55%",
     "uptimeWeek": "89.21%",
     "uptimeMonth": "96.96%",
-    "uptimeYear": "99.21%",
-    "time": 2387,
-    "timeDay": 2844,
+    "uptimeYear": "99.22%",
+    "time": 2389,
+    "timeDay": 2893,
     "timeWeek": 2799,
     "timeMonth": 2682,
     "timeYear": 2661,
@@ -2061,7 +2061,7 @@
       "2025-06-24": 37,
       "2025-06-23": 38,
       "2025-06-20": 49,
-      "2025-06-19": 81
+      "2025-06-19": 25
     }
   },
   {
@@ -2081,7 +2081,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-22": 1119,
+      "2025-10-22": 1137,
       "2025-10-21": 1440,
       "2025-10-20": 1440,
       "2025-10-19": 1440,
@@ -2465,7 +2465,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-22": 1120,
+      "2025-10-22": 1137,
       "2025-10-21": 1440,
       "2025-10-20": 1440,
       "2025-10-19": 1440,
@@ -2849,7 +2849,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-22": 1120,
+      "2025-10-22": 1137,
       "2025-10-21": 1440,
       "2025-10-20": 1440,
       "2025-10-19": 1440,
@@ -3233,7 +3233,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-22": 1120,
+      "2025-10-22": 1137,
       "2025-10-21": 1440,
       "2025-10-20": 1440,
       "2025-10-19": 1440,
