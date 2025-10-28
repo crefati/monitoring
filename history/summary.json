@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-28": 108,
+      "2025-10-28": 361,
       "2025-10-27": 1440,
       "2025-10-26": 1440,
       "2025-10-25": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-28": 108,
+      "2025-10-28": 361,
       "2025-10-27": 1440,
       "2025-10-26": 1440,
       "2025-10-25": 1440,
@@ -784,7 +784,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-28": 108,
+      "2025-10-28": 361,
       "2025-10-27": 1440,
       "2025-10-26": 1440,
       "2025-10-25": 1440,
@@ -1168,7 +1168,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-28": 108,
+      "2025-10-28": 361,
       "2025-10-27": 1440,
       "2025-10-26": 1440,
       "2025-10-25": 1440,
@@ -1596,7 +1596,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-28": 108,
+      "2025-10-28": 361,
       "2025-10-27": 1440,
       "2025-10-26": 1440,
       "2025-10-25": 1440,
@@ -2019,18 +2019,19 @@
     "url": "https://mytripconnector.com/",
     "icon": "https://icons.duckduckgo.com/ip3/mytripconnector.com.ico",
     "slug": "my-trip-connector-tourism-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "98.77%",
-    "uptimeWeek": "89.55%",
+    "uptimeDay": "98.74%",
+    "uptimeWeek": "89.54%",
     "uptimeMonth": "96.13%",
     "uptimeYear": "99.26%",
-    "time": 2465,
+    "time": 2467,
     "timeDay": 1886,
     "timeWeek": 2853,
     "timeMonth": 2688,
     "timeYear": 2667,
     "dailyMinutesDown": {
+      "2025-10-28": 0,
       "2025-10-27": 18,
       "2025-10-25": 33,
       "2025-10-24": 74,
@@ -2060,7 +2061,7 @@
       "2025-07-02": 98,
       "2025-06-30": 145,
       "2025-06-29": 60,
-      "2025-06-28": 59
+      "2025-06-28": 32
     }
   },
   {
@@ -2069,7 +2070,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/osmanli.co.tz.ico",
     "slug": "osmanli-website",
     "status": "down",
-    "uptime": "30.62%",
+    "uptime": "30.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -2080,7 +2081,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-28": 109,
+      "2025-10-28": 361,
       "2025-10-27": 1440,
       "2025-10-26": 1440,
       "2025-10-25": 1440,
@@ -2453,7 +2454,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mechanicgarage.co.tz.ico",
     "slug": "mechanic-garage-website",
     "status": "down",
-    "uptime": "62.93%",
+    "uptime": "62.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -2464,7 +2465,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-28": 109,
+      "2025-10-28": 361,
       "2025-10-27": 1440,
       "2025-10-26": 1440,
       "2025-10-25": 1440,
@@ -2848,7 +2849,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-28": 109,
+      "2025-10-28": 361,
       "2025-10-27": 1440,
       "2025-10-26": 1440,
       "2025-10-25": 1440,
@@ -3232,7 +3233,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-28": 109,
+      "2025-10-28": 361,
       "2025-10-27": 1440,
       "2025-10-26": 1440,
       "2025-10-25": 1440,
