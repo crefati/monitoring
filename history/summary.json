@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-20": 1199,
+      "2025-11-20": 1280,
       "2025-11-19": 1440,
       "2025-11-18": 1440,
       "2025-11-17": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-20": 1199,
+      "2025-11-20": 1280,
       "2025-11-19": 1440,
       "2025-11-18": 1440,
       "2025-11-17": 1440,
@@ -784,7 +784,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-20": 1199,
+      "2025-11-20": 1280,
       "2025-11-19": 1440,
       "2025-11-18": 1440,
       "2025-11-17": 1440,
@@ -1168,7 +1168,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-20": 1199,
+      "2025-11-20": 1280,
       "2025-11-19": 1440,
       "2025-11-18": 1440,
       "2025-11-17": 1440,
@@ -1592,7 +1592,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tours.royalzanzibar.co.tz.ico",
     "slug": "rozac-tourism-website",
     "status": "down",
-    "uptime": "36.37%",
+    "uptime": "36.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1603,7 +1603,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-20": 1199,
+      "2025-11-20": 1280,
       "2025-11-19": 1440,
       "2025-11-18": 1440,
       "2025-11-17": 1440,
@@ -2033,15 +2033,15 @@
     "url": "https://mytripconnector.com/",
     "icon": "https://icons.duckduckgo.com/ip3/mytripconnector.com.ico",
     "slug": "my-trip-connector-tourism-website",
-    "status": "up",
-    "uptime": "99.79%",
-    "uptimeDay": "95.30%",
+    "status": "down",
+    "uptime": "99.80%",
+    "uptimeDay": "97.04%",
     "uptimeWeek": "97.61%",
     "uptimeMonth": "95.65%",
-    "uptimeYear": "99.36%",
-    "time": 2568,
-    "timeDay": 3244,
-    "timeWeek": 3726,
+    "uptimeYear": "99.40%",
+    "time": 2570,
+    "timeDay": 3344,
+    "timeWeek": 3884,
     "timeMonth": 3116,
     "timeYear": 2727,
     "dailyMinutesDown": {
@@ -2077,7 +2077,7 @@
       "2025-08-17": 90,
       "2025-08-08": 23,
       "2025-07-31": 32,
-      "2025-07-29": 243
+      "2025-07-29": 30
     }
   },
   {
@@ -2097,7 +2097,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-20": 1200,
+      "2025-11-20": 1280,
       "2025-11-19": 1440,
       "2025-11-18": 1440,
       "2025-11-17": 1440,
@@ -2470,7 +2470,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mechanicgarage.co.tz.ico",
     "slug": "mechanic-garage-website",
     "status": "down",
-    "uptime": "61.55%",
+    "uptime": "61.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -2481,7 +2481,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-20": 1200,
+      "2025-11-20": 1280,
       "2025-11-19": 1440,
       "2025-11-18": 1440,
       "2025-11-17": 1440,
@@ -2865,7 +2865,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-20": 1200,
+      "2025-11-20": 1280,
       "2025-11-19": 1440,
       "2025-11-18": 1440,
       "2025-11-17": 1440,
@@ -3249,7 +3249,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-20": 1200,
+      "2025-11-20": 1280,
       "2025-11-19": 1440,
       "2025-11-18": 1440,
       "2025-11-17": 1440,
