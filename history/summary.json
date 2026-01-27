@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-27": 322,
+      "2026-01-27": 441,
       "2026-01-26": 1440,
       "2026-01-25": 1440,
       "2026-01-24": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-27": 322,
+      "2026-01-27": 441,
       "2026-01-26": 1440,
       "2026-01-25": 1440,
       "2026-01-24": 1440,
@@ -784,7 +784,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-27": 322,
+      "2026-01-27": 441,
       "2026-01-26": 1440,
       "2026-01-25": 1440,
       "2026-01-24": 1440,
@@ -1157,7 +1157,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/zrmt.or.tz.ico",
     "slug": "zrmt-website",
     "status": "down",
-    "uptime": "30.32%",
+    "uptime": "30.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1168,7 +1168,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-27": 323,
+      "2026-01-27": 441,
       "2026-01-26": 1440,
       "2026-01-25": 1440,
       "2026-01-24": 1440,
@@ -1545,14 +1545,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "86.35%",
+    "uptimeYear": "86.33%",
     "time": 800,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 847,
     "dailyMinutesDown": {
-      "2026-01-27": 323,
+      "2026-01-27": 441,
       "2026-01-26": 1440,
       "2026-01-25": 1440,
       "2026-01-24": 1440,
@@ -1656,7 +1656,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-27": 323,
+      "2026-01-27": 441,
       "2026-01-26": 1440,
       "2026-01-25": 1440,
       "2026-01-24": 1440,
@@ -2032,12 +2032,12 @@
     "uptime": "99.56%",
     "uptimeDay": "98.38%",
     "uptimeWeek": "97.74%",
-    "uptimeMonth": "98.23%",
+    "uptimeMonth": "98.29%",
     "uptimeYear": "98.64%",
     "time": 1316,
     "timeDay": 1023,
     "timeWeek": 1797,
-    "timeMonth": 1198,
+    "timeMonth": 1204,
     "timeYear": 1315,
     "dailyMinutesDown": {
       "2026-01-26": 132,
@@ -2122,12 +2122,12 @@
     "url": "https://mytripconnector.com/",
     "icon": "https://icons.duckduckgo.com/ip3/mytripconnector.com.ico",
     "slug": "my-trip-connector-tourism-website",
-    "status": "up",
+    "status": "down",
     "uptime": "96.73%",
-    "uptimeDay": "88.20%",
+    "uptimeDay": "88.17%",
     "uptimeWeek": "96.16%",
-    "uptimeMonth": "27.35%",
-    "uptimeYear": "89.46%",
+    "uptimeMonth": "27.62%",
+    "uptimeYear": "89.47%",
     "time": 2735,
     "timeDay": 2862,
     "timeWeek": 3359,
@@ -2200,7 +2200,7 @@
       "2025-10-14": 23,
       "2025-10-04": 222,
       "2025-09-22": 30,
-      "2025-09-15": 203
+      "2025-09-15": 156
     }
   },
   {
@@ -2220,7 +2220,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-27": 323,
+      "2026-01-27": 441,
       "2026-01-26": 1440,
       "2026-01-25": 1440,
       "2026-01-24": 1440,
@@ -2604,7 +2604,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-27": 323,
+      "2026-01-27": 441,
       "2026-01-26": 1440,
       "2026-01-25": 1440,
       "2026-01-24": 1440,
@@ -2988,7 +2988,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-27": 323,
+      "2026-01-27": 441,
       "2026-01-26": 1440,
       "2026-01-25": 1440,
       "2026-01-24": 1440,
@@ -3372,7 +3372,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-27": 323,
+      "2026-01-27": 441,
       "2026-01-26": 1440,
       "2026-01-25": 1440,
       "2026-01-24": 1440,
