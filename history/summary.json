@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-16": 159,
+      "2026-02-16": 353,
       "2026-02-15": 1440,
       "2026-02-14": 1440,
       "2026-02-13": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-16": 159,
+      "2026-02-16": 353,
       "2026-02-15": 1440,
       "2026-02-14": 1440,
       "2026-02-13": 1440,
@@ -784,7 +784,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-16": 159,
+      "2026-02-16": 353,
       "2026-02-15": 1440,
       "2026-02-14": 1440,
       "2026-02-13": 1440,
@@ -1168,7 +1168,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-16": 159,
+      "2026-02-16": 353,
       "2026-02-15": 1440,
       "2026-02-14": 1440,
       "2026-02-13": 1440,
@@ -1541,18 +1541,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/royalzanzibar.co.tz.ico",
     "slug": "rozac-website",
     "status": "down",
-    "uptime": "91.23%",
+    "uptime": "91.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "80.93%",
+    "uptimeYear": "80.89%",
     "time": 807,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 808,
     "dailyMinutesDown": {
-      "2026-02-16": 159,
+      "2026-02-16": 354,
       "2026-02-15": 1440,
       "2026-02-14": 1440,
       "2026-02-13": 1440,
@@ -1674,7 +1674,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-16": 159,
+      "2026-02-16": 354,
       "2026-02-15": 1440,
       "2026-02-14": 1440,
       "2026-02-13": 1440,
@@ -2139,18 +2139,19 @@
     "url": "https://mytripconnector.com/",
     "icon": "https://icons.duckduckgo.com/ip3/mytripconnector.com.ico",
     "slug": "my-trip-connector-tourism-website",
-    "status": "up",
-    "uptime": "96.67%",
-    "uptimeDay": "95.07%",
-    "uptimeWeek": "85.45%",
-    "uptimeMonth": "87.09%",
-    "uptimeYear": "89.10%",
+    "status": "down",
+    "uptime": "96.68%",
+    "uptimeDay": "95.04%",
+    "uptimeWeek": "85.44%",
+    "uptimeMonth": "87.53%",
+    "uptimeYear": "89.11%",
     "time": 2761,
     "timeDay": 3209,
     "timeWeek": 3165,
     "timeMonth": 3134,
     "timeYear": 2822,
     "dailyMinutesDown": {
+      "2026-02-16": 0,
       "2026-02-15": 71,
       "2026-02-14": 632,
       "2026-02-13": 28,
@@ -2221,7 +2222,7 @@
       "2025-10-21": 242,
       "2025-10-20": 174,
       "2025-10-19": 31,
-      "2025-10-18": 94
+      "2025-10-18": 65
     }
   },
   {
@@ -2241,7 +2242,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-16": 159,
+      "2026-02-16": 354,
       "2026-02-15": 1440,
       "2026-02-14": 1440,
       "2026-02-13": 1440,
@@ -2625,7 +2626,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-16": 159,
+      "2026-02-16": 354,
       "2026-02-15": 1440,
       "2026-02-14": 1440,
       "2026-02-13": 1440,
@@ -3009,7 +3010,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-16": 159,
+      "2026-02-16": 354,
       "2026-02-15": 1440,
       "2026-02-14": 1440,
       "2026-02-13": 1440,
@@ -3393,7 +3394,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-16": 159,
+      "2026-02-16": 354,
       "2026-02-15": 1440,
       "2026-02-14": 1440,
       "2026-02-13": 1440,
