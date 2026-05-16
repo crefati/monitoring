@@ -1,7 +1,7 @@
 url: https://mytripconnector.com/
-status: up
-code: 200
-responseTime: 2785
-lastUpdated: 2026-05-15T23:56:09.945Z
+status: down
+code: 415
+responseTime: 2003
+lastUpdated: 2026-05-16T18:42:44.871Z
 startTime: 2022-11-08T13:45:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
