@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-21": 3,
+      "2026-06-21": 9,
       "2026-06-20": 1440,
       "2026-06-19": 1440,
       "2026-06-18": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-21": 3,
+      "2026-06-21": 9,
       "2026-06-20": 1440,
       "2026-06-19": 1440,
       "2026-06-18": 1440,
@@ -784,7 +784,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-21": 3,
+      "2026-06-21": 9,
       "2026-06-20": 1440,
       "2026-06-19": 1440,
       "2026-06-18": 1440,
@@ -1168,7 +1168,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-21": 3,
+      "2026-06-21": 9,
       "2026-06-20": 1440,
       "2026-06-19": 1440,
       "2026-06-18": 1440,
@@ -1545,7 +1545,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "46.78%",
+    "uptimeYear": "46.77%",
     "time": 751,
     "timeDay": 0,
     "timeWeek": 0,
@@ -1579,7 +1579,7 @@
       "2025-12-04": 55,
       "2025-12-06": 81,
       "2025-12-07": 39,
-      "2026-06-21": 3,
+      "2026-06-21": 9,
       "2026-06-20": 1440,
       "2026-06-19": 1440,
       "2026-06-18": 1440,
@@ -1793,7 +1793,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-21": 3,
+      "2026-06-21": 9,
       "2026-06-20": 1440,
       "2026-06-19": 1440,
       "2026-06-18": 1440,
@@ -2165,16 +2165,16 @@
     "url": "https://jaomaffl.co.tz/",
     "icon": "https://icons.duckduckgo.com/ip3/jaomaffl.co.tz.ico",
     "slug": "jaomaffl-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.47%",
-    "uptimeDay": "67.92%",
-    "uptimeWeek": "82.85%",
+    "uptimeDay": "67.63%",
+    "uptimeWeek": "82.86%",
     "uptimeMonth": "87.10%",
     "uptimeYear": "98.09%",
-    "time": 1244,
-    "timeDay": 959,
-    "timeWeek": 1034,
-    "timeMonth": 1102,
+    "time": 1245,
+    "timeDay": 1026,
+    "timeWeek": 1047,
+    "timeMonth": 1107,
     "timeYear": 1171,
     "dailyMinutesDown": {
       "2026-03-08": 79,
@@ -2238,7 +2238,7 @@
       "2026-06-16": 462,
       "2026-06-17": 87,
       "2026-06-20": 460,
-      "2026-06-21": 2
+      "2026-06-21": 6
     }
   },
   {
@@ -2246,16 +2246,16 @@
     "url": "https://mytripconnector.com/",
     "icon": "https://icons.duckduckgo.com/ip3/mytripconnector.com.ico",
     "slug": "my-trip-connector-tourism-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.06%",
-    "uptimeDay": "67.99%",
-    "uptimeWeek": "82.97%",
-    "uptimeMonth": "87.37%",
+    "uptimeDay": "67.70%",
+    "uptimeWeek": "82.98%",
+    "uptimeMonth": "87.36%",
     "uptimeYear": "96.59%",
-    "time": 2924,
-    "timeDay": 2515,
-    "timeWeek": 2539,
-    "timeMonth": 2308,
+    "time": 2922,
+    "timeDay": 2541,
+    "timeWeek": 2546,
+    "timeMonth": 2306,
     "timeYear": 2941,
     "dailyMinutesDown": {
       "2026-02-08": 158,
@@ -2324,7 +2324,7 @@
       "2026-06-16": 457,
       "2026-06-17": 86,
       "2026-06-20": 459,
-      "2026-06-21": 2
+      "2026-06-21": 6
     }
   },
   {
@@ -2344,7 +2344,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-21": 4,
+      "2026-06-21": 9,
       "2026-06-20": 1440,
       "2026-06-19": 1440,
       "2026-06-18": 1440,
@@ -2728,7 +2728,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-21": 4,
+      "2026-06-21": 9,
       "2026-06-20": 1440,
       "2026-06-19": 1440,
       "2026-06-18": 1440,
@@ -3112,7 +3112,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-21": 4,
+      "2026-06-21": 10,
       "2026-06-20": 1440,
       "2026-06-19": 1440,
       "2026-06-18": 1440,
@@ -3496,7 +3496,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-21": 4,
+      "2026-06-21": 10,
       "2026-06-20": 1440,
       "2026-06-19": 1440,
       "2026-06-18": 1440,
