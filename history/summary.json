@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-24": 1172,
+      "2026-06-24": 1274,
       "2026-06-23": 1440,
       "2026-06-22": 1440,
       "2026-06-21": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-24": 1172,
+      "2026-06-24": 1274,
       "2026-06-23": 1440,
       "2026-06-22": 1440,
       "2026-06-21": 1440,
@@ -784,7 +784,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-24": 1172,
+      "2026-06-24": 1274,
       "2026-06-23": 1440,
       "2026-06-22": 1440,
       "2026-06-21": 1440,
@@ -1168,7 +1168,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-24": 1172,
+      "2026-06-24": 1274,
       "2026-06-23": 1440,
       "2026-06-22": 1440,
       "2026-06-21": 1440,
@@ -1545,7 +1545,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "45.74%",
+    "uptimeYear": "45.72%",
     "time": 752,
     "timeDay": 0,
     "timeWeek": 0,
@@ -1579,7 +1579,7 @@
       "2025-12-04": 55,
       "2025-12-06": 81,
       "2025-12-07": 39,
-      "2026-06-24": 1172,
+      "2026-06-24": 1274,
       "2026-06-23": 1440,
       "2026-06-22": 1440,
       "2026-06-21": 1440,
@@ -1796,7 +1796,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-24": 1172,
+      "2026-06-24": 1274,
       "2026-06-23": 1440,
       "2026-06-22": 1440,
       "2026-06-21": 1440,
@@ -2168,17 +2168,17 @@
     "url": "https://jaomaffl.co.tz/",
     "icon": "https://icons.duckduckgo.com/ip3/jaomaffl.co.tz.ico",
     "slug": "jaomaffl-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.45%",
-    "uptimeDay": "94.63%",
-    "uptimeWeek": "88.82%",
-    "uptimeMonth": "86.22%",
-    "uptimeYear": "98.02%",
+    "uptimeDay": "87.66%",
+    "uptimeWeek": "87.82%",
+    "uptimeMonth": "85.99%",
+    "uptimeYear": "98.00%",
     "time": 1246,
-    "timeDay": 985,
-    "timeWeek": 1090,
-    "timeMonth": 1105,
-    "timeYear": 1134,
+    "timeDay": 1061,
+    "timeWeek": 1101,
+    "timeMonth": 1108,
+    "timeYear": 1135,
     "dailyMinutesDown": {
       "2026-03-10": 31,
       "2026-03-13": 59,
@@ -2242,7 +2242,7 @@
       "2026-06-21": 276,
       "2026-06-22": 315,
       "2026-06-23": 75,
-      "2026-06-24": 2
+      "2026-06-24": 102
     }
   },
   {
@@ -2250,17 +2250,17 @@
     "url": "https://mytripconnector.com/",
     "icon": "https://icons.duckduckgo.com/ip3/mytripconnector.com.ico",
     "slug": "my-trip-connector-tourism-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.07%",
-    "uptimeDay": "94.67%",
-    "uptimeWeek": "88.73%",
-    "uptimeMonth": "86.43%",
-    "uptimeYear": "96.64%",
+    "uptimeDay": "87.70%",
+    "uptimeWeek": "87.73%",
+    "uptimeMonth": "86.20%",
+    "uptimeYear": "96.62%",
     "time": 2916,
-    "timeDay": 2714,
-    "timeWeek": 2595,
-    "timeMonth": 2303,
-    "timeYear": 2931,
+    "timeDay": 2681,
+    "timeWeek": 2593,
+    "timeMonth": 2306,
+    "timeYear": 2930,
     "dailyMinutesDown": {
       "2026-02-14": 632,
       "2026-02-15": 71,
@@ -2327,7 +2327,7 @@
       "2026-06-21": 282,
       "2026-06-22": 319,
       "2026-06-23": 75,
-      "2026-06-24": 2
+      "2026-06-24": 102
     }
   },
   {
@@ -2347,7 +2347,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-24": 1172,
+      "2026-06-24": 1274,
       "2026-06-23": 1440,
       "2026-06-22": 1440,
       "2026-06-21": 1440,
@@ -2731,7 +2731,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-24": 1172,
+      "2026-06-24": 1274,
       "2026-06-23": 1440,
       "2026-06-22": 1440,
       "2026-06-21": 1440,
@@ -3115,7 +3115,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-24": 1172,
+      "2026-06-24": 1274,
       "2026-06-23": 1440,
       "2026-06-22": 1440,
       "2026-06-21": 1440,
@@ -3499,7 +3499,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-24": 1172,
+      "2026-06-24": 1274,
       "2026-06-23": 1440,
       "2026-06-22": 1440,
       "2026-06-21": 1440,
