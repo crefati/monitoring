@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-24": 1369,
+      "2026-07-24": 1430,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-24": 1369,
+      "2026-07-24": 1430,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
@@ -784,7 +784,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-24": 1369,
+      "2026-07-24": 1430,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
@@ -1168,7 +1168,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-24": 1369,
+      "2026-07-24": 1430,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
@@ -1545,7 +1545,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "37.49%",
+    "uptimeYear": "37.48%",
     "time": 742,
     "timeDay": 0,
     "timeWeek": 0,
@@ -1576,7 +1576,7 @@
       "2025-12-04": 55,
       "2025-12-06": 81,
       "2025-12-07": 39,
-      "2026-07-24": 1369,
+      "2026-07-24": 1430,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
@@ -1823,7 +1823,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-24": 1369,
+      "2026-07-24": 1430,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
@@ -2195,16 +2195,16 @@
     "url": "https://jaomaffl.co.tz/",
     "icon": "https://icons.duckduckgo.com/ip3/jaomaffl.co.tz.ico",
     "slug": "jaomaffl-website",
-    "status": "down",
-    "uptime": "99.30%",
-    "uptimeDay": "76.85%",
-    "uptimeWeek": "89.60%",
-    "uptimeMonth": "85.65%",
-    "uptimeYear": "97.39%",
+    "status": "up",
+    "uptime": "99.29%",
+    "uptimeDay": "76.46%",
+    "uptimeWeek": "89.01%",
+    "uptimeMonth": "85.52%",
+    "uptimeYear": "97.38%",
     "time": 1223,
-    "timeDay": 1464,
-    "timeWeek": 1267,
-    "timeMonth": 1134,
+    "timeDay": 1153,
+    "timeWeek": 1282,
+    "timeMonth": 1138,
     "timeYear": 1136,
     "dailyMinutesDown": {
       "2026-04-26": 130,
@@ -2265,7 +2265,7 @@
       "2026-07-18": 366,
       "2026-07-19": 53,
       "2026-07-23": 350,
-      "2026-07-24": 280
+      "2026-07-24": 339
     }
   },
   {
@@ -2273,16 +2273,16 @@
     "url": "https://mytripconnector.com/",
     "icon": "https://icons.duckduckgo.com/ip3/mytripconnector.com.ico",
     "slug": "my-trip-connector-tourism-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.30%",
-    "uptimeDay": "76.89%",
-    "uptimeWeek": "86.83%",
-    "uptimeMonth": "84.07%",
-    "uptimeYear": "97.40%",
-    "time": 2855,
-    "timeDay": 2107,
-    "timeWeek": 2369,
-    "timeMonth": 2458,
+    "uptimeDay": "76.50%",
+    "uptimeWeek": "86.24%",
+    "uptimeMonth": "83.93%",
+    "uptimeYear": "97.39%",
+    "time": 2853,
+    "timeDay": 2033,
+    "timeWeek": 2377,
+    "timeMonth": 2459,
     "timeYear": 2818,
     "dailyMinutesDown": {
       "2026-05-09": 55,
@@ -2340,7 +2340,7 @@
       "2026-07-22": 178,
       "2026-07-21": 2,
       "2026-07-23": 450,
-      "2026-07-24": 280
+      "2026-07-24": 339
     }
   },
   {
@@ -2360,7 +2360,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-24": 1369,
+      "2026-07-24": 1430,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
@@ -2744,7 +2744,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-24": 1369,
+      "2026-07-24": 1430,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
@@ -3128,7 +3128,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-24": 1369,
+      "2026-07-24": 1430,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
@@ -3501,7 +3501,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/aqsalaanlogistics.co.tz.ico",
     "slug": "aqsalaan-logistics-website",
     "status": "down",
-    "uptime": "14.70%",
+    "uptime": "14.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -3512,7 +3512,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-24": 1369,
+      "2026-07-24": 1430,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
