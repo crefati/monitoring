@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-26": 1117,
+      "2026-07-26": 1196,
       "2026-07-25": 1440,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-26": 1117,
+      "2026-07-26": 1196,
       "2026-07-25": 1440,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
@@ -784,7 +784,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-26": 1117,
+      "2026-07-26": 1196,
       "2026-07-25": 1440,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
@@ -1168,7 +1168,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-26": 1117,
+      "2026-07-26": 1196,
       "2026-07-25": 1440,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
@@ -1545,7 +1545,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "36.99%",
+    "uptimeYear": "36.98%",
     "time": 729,
     "timeDay": 0,
     "timeWeek": 0,
@@ -1576,7 +1576,7 @@
       "2025-12-04": 55,
       "2025-12-06": 81,
       "2025-12-07": 39,
-      "2026-07-26": 1117,
+      "2026-07-26": 1196,
       "2026-07-25": 1440,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
@@ -1825,7 +1825,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-26": 1117,
+      "2026-07-26": 1196,
       "2026-07-25": 1440,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
@@ -2197,17 +2197,17 @@
     "url": "https://jaomaffl.co.tz/",
     "icon": "https://icons.duckduckgo.com/ip3/jaomaffl.co.tz.ico",
     "slug": "jaomaffl-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.30%",
-    "uptimeDay": "85.36%",
-    "uptimeWeek": "89.84%",
-    "uptimeMonth": "85.98%",
-    "uptimeYear": "97.40%",
+    "uptimeDay": "80.44%",
+    "uptimeWeek": "89.33%",
+    "uptimeMonth": "85.82%",
+    "uptimeYear": "97.39%",
     "time": 1225,
-    "timeDay": 1429,
-    "timeWeek": 1321,
-    "timeMonth": 1165,
-    "timeYear": 1137,
+    "timeDay": 1577,
+    "timeWeek": 1355,
+    "timeMonth": 1166,
+    "timeYear": 1138,
     "dailyMinutesDown": {
       "2026-05-02": 54,
       "2026-05-03": 48,
@@ -2266,7 +2266,7 @@
       "2026-07-23": 350,
       "2026-07-24": 339,
       "2026-07-25": 121,
-      "2026-07-26": 162
+      "2026-07-26": 234
     }
   },
   {
@@ -2275,14 +2275,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/mytripconnector.com.ico",
     "slug": "my-trip-connector-tourism-website",
     "status": "down",
-    "uptime": "99.30%",
-    "uptimeDay": "76.85%",
-    "uptimeWeek": "85.85%",
-    "uptimeMonth": "84.41%",
-    "uptimeYear": "97.38%",
+    "uptime": "99.29%",
+    "uptimeDay": "71.46%",
+    "uptimeWeek": "85.27%",
+    "uptimeMonth": "84.23%",
+    "uptimeYear": "97.37%",
     "time": 2843,
-    "timeDay": 1683,
-    "timeWeek": 2179,
+    "timeDay": 2006,
+    "timeWeek": 2184,
     "timeMonth": 2429,
     "timeYear": 2807,
     "dailyMinutesDown": {
@@ -2339,7 +2339,7 @@
       "2026-07-23": 450,
       "2026-07-24": 339,
       "2026-07-25": 121,
-      "2026-07-26": 285
+      "2026-07-26": 364
     }
   },
   {
@@ -2359,7 +2359,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-26": 1117,
+      "2026-07-26": 1196,
       "2026-07-25": 1440,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
@@ -2743,7 +2743,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-26": 1117,
+      "2026-07-26": 1196,
       "2026-07-25": 1440,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
@@ -3127,7 +3127,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-26": 1117,
+      "2026-07-26": 1196,
       "2026-07-25": 1440,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
@@ -3500,7 +3500,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/aqsalaanlogistics.co.tz.ico",
     "slug": "aqsalaan-logistics-website",
     "status": "down",
-    "uptime": "14.68%",
+    "uptime": "14.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -3511,7 +3511,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-26": 1118,
+      "2026-07-26": 1196,
       "2026-07-25": 1440,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
