@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-23": 246,
+      "2026-09-24": 242,
+      "2026-09-23": 1440,
       "2026-09-22": 1440,
       "2026-09-21": 1440,
       "2026-09-20": 1440,
@@ -379,8 +380,7 @@
       "2025-09-28": 1440,
       "2025-09-27": 1440,
       "2025-09-26": 1440,
-      "2025-09-25": 1440,
-      "2025-09-24": 1440
+      "2025-09-25": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/my.crefati.com.ico",
     "slug": "crefati-hosting",
     "status": "down",
-    "uptime": "10.10%",
+    "uptime": "10.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-23": 246,
+      "2026-09-24": 242,
+      "2026-09-23": 1440,
       "2026-09-22": 1440,
       "2026-09-21": 1440,
       "2026-09-20": 1440,
@@ -763,8 +764,7 @@
       "2025-09-28": 1440,
       "2025-09-27": 1440,
       "2025-09-26": 1440,
-      "2025-09-25": 1440,
-      "2025-09-24": 1440
+      "2025-09-25": 1440
     }
   },
   {
@@ -773,7 +773,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/my.crefati.com.ico",
     "slug": "crefati-email-dashboard",
     "status": "down",
-    "uptime": "10.10%",
+    "uptime": "10.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -784,7 +784,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-23": 246,
+      "2026-09-24": 242,
+      "2026-09-23": 1440,
       "2026-09-22": 1440,
       "2026-09-21": 1440,
       "2026-09-20": 1440,
@@ -1147,8 +1148,7 @@
       "2025-09-28": 1440,
       "2025-09-27": 1440,
       "2025-09-26": 1440,
-      "2025-09-25": 1440,
-      "2025-09-24": 1440
+      "2025-09-25": 1440
     }
   },
   {
@@ -1157,7 +1157,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/zrmt.or.tz.ico",
     "slug": "zrmt-website",
     "status": "down",
-    "uptime": "25.20%",
+    "uptime": "25.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1168,7 +1168,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-23": 246,
+      "2026-09-24": 242,
+      "2026-09-23": 1440,
       "2026-09-22": 1440,
       "2026-09-21": 1440,
       "2026-09-20": 1440,
@@ -1531,8 +1532,7 @@
       "2025-09-28": 1440,
       "2025-09-27": 1440,
       "2025-09-26": 1440,
-      "2025-09-25": 1440,
-      "2025-09-24": 1440
+      "2025-09-25": 1440
     }
   },
   {
@@ -1541,16 +1541,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/royalzanzibar.co.tz.ico",
     "slug": "rozac-website",
     "status": "down",
-    "uptime": "77.10%",
+    "uptime": "77.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "21.01%",
-    "time": 668,
+    "uptimeYear": "20.74%",
+    "time": 667,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 663,
+    "timeYear": 662,
     "dailyMinutesDown": {
       "2025-09-30": 28,
       "2025-10-20": 27,
@@ -1572,7 +1572,8 @@
       "2025-12-04": 55,
       "2025-12-06": 81,
       "2025-12-07": 39,
-      "2026-09-23": 247,
+      "2026-09-24": 242,
+      "2026-09-23": 1440,
       "2026-09-22": 1440,
       "2026-09-21": 1440,
       "2026-09-20": 1440,
@@ -1869,7 +1870,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tours.royalzanzibar.co.tz.ico",
     "slug": "rozac-tourism-website",
     "status": "down",
-    "uptime": "28.49%",
+    "uptime": "28.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1880,7 +1881,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-23": 247,
+      "2026-09-24": 242,
+      "2026-09-23": 1440,
       "2026-09-22": 1440,
       "2026-09-21": 1440,
       "2026-09-20": 1440,
@@ -2243,8 +2245,7 @@
       "2025-09-28": 1440,
       "2025-09-27": 1440,
       "2025-09-26": 1440,
-      "2025-09-25": 1440,
-      "2025-09-24": 1440
+      "2025-09-25": 1440
     }
   },
   {
@@ -2258,11 +2259,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.85%",
-    "time": 1397,
-    "timeDay": 2937,
-    "timeWeek": 2740,
-    "timeMonth": 2929,
-    "timeYear": 1393,
+    "time": 1398,
+    "timeDay": 2650,
+    "timeWeek": 2610,
+    "timeMonth": 2914,
+    "timeYear": 1395,
     "dailyMinutesDown": {
       "2026-05-25": 430,
       "2026-05-26": 74,
@@ -2331,16 +2332,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mytripconnector.com.ico",
     "slug": "my-trip-connector-tourism-website",
     "status": "down",
-    "uptime": "99.43%",
-    "uptimeDay": "88.28%",
-    "uptimeWeek": "98.33%",
-    "uptimeMonth": "97.27%",
-    "uptimeYear": "97.78%",
-    "time": 2753,
-    "timeDay": 1201,
-    "timeWeek": 2048,
-    "timeMonth": 2086,
-    "timeYear": 2751,
+    "uptime": "99.36%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "84.09%",
+    "uptimeMonth": "94.03%",
+    "uptimeYear": "97.51%",
+    "time": 2750,
+    "timeDay": 1189,
+    "timeWeek": 1814,
+    "timeMonth": 2099,
+    "timeYear": 2750,
     "dailyMinutesDown": {
       "2026-06-15": 213,
       "2026-06-16": 457,
@@ -2397,7 +2398,8 @@
       "2026-09-03": 131,
       "2026-09-11": 733,
       "2026-09-12": 123,
-      "2026-09-23": 169
+      "2026-09-24": 242,
+      "2026-09-23": 1362
     }
   },
   {
@@ -2406,7 +2408,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/osmanli.co.tz.ico",
     "slug": "osmanli-website",
     "status": "down",
-    "uptime": "23.31%",
+    "uptime": "23.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -2417,7 +2419,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-23": 247,
+      "2026-09-24": 242,
+      "2026-09-23": 1440,
       "2026-09-22": 1440,
       "2026-09-21": 1440,
       "2026-09-20": 1440,
@@ -2780,8 +2783,7 @@
       "2025-09-28": 1440,
       "2025-09-27": 1440,
       "2025-09-26": 1440,
-      "2025-09-25": 1440,
-      "2025-09-24": 1440
+      "2025-09-25": 1440
     }
   },
   {
@@ -2790,7 +2792,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mechanicgarage.co.tz.ico",
     "slug": "mechanic-garage-website",
     "status": "down",
-    "uptime": "47.92%",
+    "uptime": "47.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -2801,7 +2803,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-23": 247,
+      "2026-09-24": 242,
+      "2026-09-23": 1440,
       "2026-09-22": 1440,
       "2026-09-21": 1440,
       "2026-09-20": 1440,
@@ -3164,8 +3167,7 @@
       "2025-09-28": 1440,
       "2025-09-27": 1440,
       "2025-09-26": 1440,
-      "2025-09-25": 1440,
-      "2025-09-24": 1440
+      "2025-09-25": 1440
     }
   },
   {
@@ -3174,7 +3176,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/wildfivetours.co.tz.ico",
     "slug": "wild-five-tours-website",
     "status": "down",
-    "uptime": "5.97%",
+    "uptime": "5.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -3185,7 +3187,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-23": 247,
+      "2026-09-24": 242,
+      "2026-09-23": 1440,
       "2026-09-22": 1440,
       "2026-09-21": 1440,
       "2026-09-20": 1440,
@@ -3548,8 +3551,7 @@
       "2025-09-28": 1440,
       "2025-09-27": 1440,
       "2025-09-26": 1440,
-      "2025-09-25": 1440,
-      "2025-09-24": 1440
+      "2025-09-25": 1440
     }
   },
   {
@@ -3558,7 +3560,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/aqsalaanlogistics.co.tz.ico",
     "slug": "aqsalaan-logistics-website",
     "status": "down",
-    "uptime": "14.06%",
+    "uptime": "14.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -3569,7 +3571,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-23": 247,
+      "2026-09-24": 242,
+      "2026-09-23": 1440,
       "2026-09-22": 1440,
       "2026-09-21": 1440,
       "2026-09-20": 1440,
@@ -3932,8 +3935,7 @@
       "2025-09-28": 1440,
       "2025-09-27": 1440,
       "2025-09-26": 1440,
-      "2025-09-25": 1440,
-      "2025-09-24": 1440
+      "2025-09-25": 1440
     }
   }
 ]
